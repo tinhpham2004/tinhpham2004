@@ -18,6 +18,9 @@ My name is Pham Hoang Tinh, I am from Vietnam :vietnam:
 <a href="mailto:hoangtinh30032004@gmail.com">
   <img align="left" alt="mail" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
+<a href="https://www.linkedin.com/in/ho%C3%A0ng-t%C3%ADnh-ph%E1%BA%A1m-b162902a7/">
+  <img align="left" alt="mail" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a>
 <br>
 
 
